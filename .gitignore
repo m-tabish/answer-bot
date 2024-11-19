@@ -8,11 +8,8 @@ Lib
 Scripts
 share
 
-RAG/
-venv/
 venv/
 *.pyc
-__pycache__/
 functions/
 etc/
 .vscode/
